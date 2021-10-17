@@ -8,3 +8,5 @@
 |lzzw |  9/12  | 01|
 |Egg  | 4/15  | 02|
 ```python
+s = "Python syntax highlighting"
+print s
